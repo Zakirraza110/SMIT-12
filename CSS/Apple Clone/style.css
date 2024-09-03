@@ -188,3 +188,23 @@ section#sec_one {
     padding: 13px 35px;
     border-radius: 23px;
 }
+.bx1 h5{
+    color: #9c9ca0;
+}
+
+.screen img {
+    width: auto;
+    margin-top: 40px;
+}
+
+.bx2 h1 img {
+    width: 75px;
+}
+
+.watch p{
+    color: red;
+}
+
+.watch img {
+    width: 100%;
+}
