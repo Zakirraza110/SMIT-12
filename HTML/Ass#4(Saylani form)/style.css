@@ -81,3 +81,7 @@ label{
 .inn {
     width: 64%;
 }
+
+ol li{
+    text-align: initial;
+}
